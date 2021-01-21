@@ -42,13 +42,13 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ## :partying_face: Meus principais projetos
 
-[NetFlix-Clone](https://github.com/iamdiegoinacio/NetFlix-Clone)
+- [NetFlix-Clone](https://github.com/iamdiegoinacio/NetFlix-Clone)
 
-[FigmaLand](https://iamdiegoinacio.github.io/figmaland)
+- [FigmaLand](https://iamdiegoinacio.github.io/figmaland)
 
-[Leno APP](https://iamdiegoinacio.github.io/LenoApp-Website)
+- [Leno APP](https://iamdiegoinacio.github.io/LenoApp-Website)
 
-[The Evenet](https://iamdiegoinacio.github.io/TheEvent-Website)
+- [The Evenet](https://iamdiegoinacio.github.io/TheEvent-Website)
 
 
 
