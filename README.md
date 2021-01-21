@@ -11,7 +11,7 @@
 [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:diegoinacio@protonmail.com)](mailto:diegoinacio@protonmail.com)
 
 
-## :muscle: Minhas habilidades em programação:
+## :rocket: Minhas habilidades em programação:
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-0076be?style=for-the-badge&logo=css3&logoColor=white)
