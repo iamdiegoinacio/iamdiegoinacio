@@ -40,6 +40,18 @@ Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluç
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
 </details>
 
+## :partying_face: Meus principais projetos
+
+[NetFlix-Clone](https://github.com/iamdiegoinacio/NetFlix-Clone)
+
+[FigmaLand](https://iamdiegoinacio.github.io/figmaland)
+
+[Leno APP](https://iamdiegoinacio.github.io/LenoApp-Website)
+
+[The Evenet](https://iamdiegoinacio.github.io/TheEvent-Website)
+
+
+
 
 <!--
 **iamdiegoinacio/iamdiegoinacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
