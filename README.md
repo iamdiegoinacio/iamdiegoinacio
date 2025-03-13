@@ -3,17 +3,17 @@
 
 ## :iphone: Meus contatos
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoengdesoftware/)](https://www.linkedin.com/in/diegoengdesoftware/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamdiegoinacio/)](https://www.linkedin.com/in/diegoengdesoftware/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/diegoengdesoftware)](https://www.facebook.com/diegoengdesoftware)
-[![Messenger Badge](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white&link=https://messenger.com/diegoengdesoftware)](https://messenger.com/diegoengdesoftware)
+<!--[![Messenger Badge](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white&link=https://messenger.com/diegoengdesoftware)](https://messenger.com/diegoengdesoftware)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521966748858)](https://api.whatsapp.com/send?phone=5521966748858)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:iamdiegoinacio@gmail.com)](mailto:iamdiegoinacio@gmail.com)
-[![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:diegoinacio@protonmail.com)](mailto:diegoinacio@protonmail.com)
+[![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:diegoinacio@protonmail.com)](mailto:diegoinacio@protonmail.com)-->
 
 
 ## :rocket: Minhas habilidades em programação:
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white)
+<!--![HTML5 Badge](https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-0076be?style=for-the-badge&logo=css3&logoColor=white)
 ![BOOSTRAP Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -23,7 +23,7 @@
 ![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JQUERY Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![MYSQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![AMAZON AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AMAZON AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)-->
 
 
 ## :nerd_face: Sobre mim
