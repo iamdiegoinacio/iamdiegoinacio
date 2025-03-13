@@ -32,13 +32,13 @@
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 
 ### 📖 Sobre mim
-Meu nome é Diego Inácio, e atualmente moro no Rio de Janeiro, sou desenvolvedor fullstack, comecei minha jornada profissional ingressando na faculdade de Engenharia de Software na UNICESUMAR (obtive a melhor nota do RJ, assim ganhando a bolsa de 100%), venho estudando diversas linguagens e me adequando dia após dia ao mercado de trabalho.
+Meu nome é Diego Inácio, atualmente moro no RJ, sou dev JAVA. Comecei minha jornada profissional ingressando na faculdade de Engenharia de Software na UNICESUMAR (obtive a melhor nota do RJ, assim ganhando a bolsa de 100%), venho estudando diversas linguagens e me adequando dia após dia ao mercado de trabalho.
 
 Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a venderem mais, atrair mais clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing e a arte, cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
 </details>
 
-## :partying_face: Meus principais projetos
+<!--## :partying_face: Meus principais projetos
 
 - [NetFlix-Clone](https://github.com/iamdiegoinacio/NetFlix-Clone)
 
@@ -46,9 +46,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 - [Leno APP](https://iamdiegoinacio.github.io/LenoApp-Website)
 
-- [The Evenet](https://iamdiegoinacio.github.io/TheEvent-Website)
-
-
+- [The Evenet](https://iamdiegoinacio.github.io/TheEvent-Website)-->
 
 
 <!--
