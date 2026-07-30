@@ -122,12 +122,6 @@ Software Engineer • Microsoft Specialist • Cloud Architect • Cybersecurity
 
 ---
 
-# 🏆 GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamdiegoinacio&theme=tokyonight&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 # 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamdiegoinacio&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
