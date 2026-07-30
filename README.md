@@ -1,130 +1,145 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Olá! Eu sou Diego Inácio
+<!-- Banner -->
 
-## Software Engineer | Microsoft Specialist | Cloud Architect | Cybersecurity
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:512BD4&height=230&section=header&text=Diego%20Inácio&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Microsoft%20Specialist%20•%20Cloud%20Architect&descAlignY=58"/>
+</p>
 
-Sou Engenheiro de Software especializado no ecossistema Microsoft, atuando no desenvolvimento de aplicações corporativas, arquitetura de software, cloud computing e cibersegurança.
+<h1 align="center">
+Hi 👋 I'm Diego Inácio
+</h1>
 
-Atualmente meu foco está na construção de sistemas escaláveis, seguros e de alta disponibilidade utilizando **C#, .NET, Azure, Cosmos DB e toda a plataforma Microsoft Azure**, sempre aplicando boas práticas de engenharia de software, arquitetura limpa e segurança.
+<h3 align="center">
+Software Engineer • Microsoft Specialist • Cloud Architect • Cybersecurity
+</h3>
 
----
+<p align="center">
 
-# 🌎 Contato
+<a href="https://www.linkedin.com/in/iamdiegoinacio">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Inácio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdiegoinacio)
+<img src="https://komarev.com/ghpvc/?username=iamdiegoinacio&style=for-the-badge"/>
 
-![Location](https://img.shields.io/badge/Based%20in-Rio%20de%20Janeiro-success?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-![Languages](https://img.shields.io/badge/Languages-PT%20|%20EN%20|%20ES-blue?style=for-the-badge)
-
----
-
-# 🚀 Microsoft Stack
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![Azure Storage](https://img.shields.io/badge/Azure%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+</p>
 
 ---
 
-# ☁️ Cloud • Backend • Architecture
+# 🚀 About Me
 
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-00599C?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-111111?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-8A2BE2?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-444444?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/CQRS-5C2D91?style=for-the-badge)
-![Event Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge)
+- 🇧🇷 Software Engineer from Brazil
+- ☁ Microsoft ecosystem specialist
+- 💙 C#, .NET & Azure enthusiast
+- 🏗 Software Architecture
+- 🔒 Cybersecurity
+- 🌍 International experience in software development
+- 🇬🇧 Lived in England
+- 🌎 Speak Portuguese, English and Spanish
+- ✈ Love traveling and experiencing new cultures
 
 ---
 
-# 🛢 Banco de Dados
+# 🎓 Education
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Azure Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+✔ Software Engineering
+
+✔ Systems Analysis and Development
+
+✔ Postgraduate in Software Architecture
+
+✔ MBA in Cybersecurity and IT Risk Management
+
+---
+
+# 💼 Microsoft Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,azure,docker,git,github,redis,postgres"/>
+
+</p>
+
+---
+
+# ☁ Azure
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Azure-Functions-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure-Cosmos_DB-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure-Service_Bus-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure-Key_Vault-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure-App_Insights-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure-Storage-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure-AKS-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure-DevOps-0078D4?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🏗 Architecture
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Clean_Architecture-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DDD-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CQRS-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Event_Driven-yellow?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOLID-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-success?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 🔒 Cybersecurity
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Secure Coding](https://img.shields.io/badge/Secure%20Coding-00599C?style=for-the-badge)
-![Risk Management](https://img.shields.io/badge/Risk%20Management-0A66C2?style=for-the-badge)
+<p align="center">
+
+<img src="https://img.shields.io/badge/OWASP-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Secure_Coding-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Risk_Management-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud_Security-0078D4?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 🛠 Ferramentas
+# 🏆 GitHub
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamdiegoinacio&theme=tokyonight&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-# 🎓 Formação
+# 📈 Contribution Graph
 
-- 🎓 Engenharia de Software
-- 🎓 Análise e Desenvolvimento de Sistemas
-- 🎓 Pós-graduação em Arquitetura de Software
-- 🎓 MBA em Cibersegurança e Gestão de Riscos em TI
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamdiegoinacio&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# 🌍 Experiência Internacional
+# 🐍 Contribution Snake
 
-Morei na **Inglaterra** durante um longo período, onde desenvolvi experiência internacional em desenvolvimento de software, trabalho multicultural e comunicação em ambientes globais.
-
----
-
-# 🌐 Idiomas
-
-- 🇧🇷 Português
-- 🇺🇸 Inglês
-- 🇪🇸 Espanhol
+![Snake](https://raw.githubusercontent.com/iamdiegoinacio/iamdiegoinacio/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-# ✈️ Sobre mim
+# 💙 Philosophy
 
-<details>
-
-<summary><b>Clique para conhecer um pouco mais</b></summary>
-
-Meu nome é **Diego Inácio** e sou apaixonado por tecnologia, arquitetura de software e computação em nuvem.
-
-Minha carreira é dedicada ao desenvolvimento de soluções corporativas utilizando a plataforma Microsoft, com foco em **C#, .NET, Azure, Cosmos DB, APIs, microsserviços, arquitetura de software e cibersegurança**.
-
-Sou graduado em Engenharia de Software e em Análise e Desenvolvimento de Sistemas, além de possuir pós-graduação em Arquitetura de Software e MBA em Cibersegurança e Gestão de Riscos em TI.
-
-Durante minha trajetória também morei na Inglaterra, onde adquiri experiência internacional e desenvolvi uma visão global sobre tecnologia.
-
-Falo **português, inglês e espanhol**, gosto de viajar, conhecer novas culturas e acredito que a inovação nasce da combinação entre conhecimento técnico, criatividade e experiências de vida.
-
-Meu objetivo é desenvolver soluções modernas, escaláveis, seguras e que realmente gerem impacto para empresas e pessoas.
-
-</details>
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=iamdiegoinacio&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamdiegoinacio&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiegoinacio&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-![](https://komarev.com/ghpvc/?username=iamdiegoinacio&style=for-the-badge)
+> *"Building scalable, secure and cloud-native solutions that create real business value."*
